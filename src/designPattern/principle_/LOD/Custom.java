@@ -1,4 +1,4 @@
-package designPatterns.LOD;
+package designPattern.principle_.LOD;
 
 /**
  * @author felix
@@ -12,7 +12,7 @@ public class Custom {
         this.name = name;
     }
 
-    public void placeOrder(Product product,Integer quantity){
+    public void placeOrder(Product product, Integer quantity){
         Order order = new Order(product, this, quantity);
         order.confirm();
     }

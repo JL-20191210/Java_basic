@@ -1,4 +1,4 @@
-package designPatterns.LOD;
+package designPattern.principle_.LOD;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,13 +15,13 @@ public class Inventory {
         this.stock = new HashMap<>();
     }
 
-    public void addToInventory(Product product,Integer quantity){
+    public void addToInventory(Product product, Integer quantity){
         //如果该产品存在返回其库存值否则返回0
         stock.put(product,stock.getOrDefault(product,0)+quantity);
     }
 
     //出库前检查库存是否充足
-    public boolean checkAvailability(Product product,Integer quantity){
+    public boolean checkAvailability(Product product, Integer quantity){
         return stock.getOrDefault(product,0) >= quantity;
     }
 

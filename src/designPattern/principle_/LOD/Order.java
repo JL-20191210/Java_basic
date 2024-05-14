@@ -1,4 +1,4 @@
-package designPatterns.LOD;
+package designPattern.principle_.LOD;
 
 /**
  * @author felix
@@ -12,7 +12,7 @@ public class Order {
 
     int quantity;
 
-    public Order(Product product,Custom custom,Integer quantity){
+    public Order(Product product, Custom custom, Integer quantity){
         this.product = product;
         this.custom = custom;
         this.quantity = quantity;

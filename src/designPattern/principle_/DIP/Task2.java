@@ -1,4 +1,4 @@
-package designPatterns.DIP;
+package designPattern.principle_.DIP;
 
 /**
  * @author felix

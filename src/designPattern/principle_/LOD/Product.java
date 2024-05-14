@@ -1,4 +1,4 @@
-package designPatterns.LOD;
+package designPattern.principle_.LOD;
 
 /**
  * @author felix

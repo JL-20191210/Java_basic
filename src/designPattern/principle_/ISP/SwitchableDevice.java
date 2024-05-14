@@ -1,4 +1,4 @@
-package designPatterns.ISP;
+package designPattern.principle_.ISP;
 
 /**
  * @author felix
