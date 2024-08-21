@@ -1,4 +1,4 @@
-package com.learning.java_basic.collections_.designPattern.proxy_.proxy01;
+package com.learning.java_basic.designPattern.proxy_.proxy01;
 
 public class proxy01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.learning.java_basic.collections_.designPattern.proxy_.proxy02;
+package com.learning.java_basic.designPattern.proxy_.proxy02;
 
 public class GamePlayerProxy implements IGamePlayer{
 

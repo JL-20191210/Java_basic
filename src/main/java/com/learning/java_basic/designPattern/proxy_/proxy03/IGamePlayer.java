@@ -1,4 +1,4 @@
-package com.learning.java_basic.collections_.designPattern.proxy_.proxy03;
+package com.learning.java_basic.designPattern.proxy_.proxy03;
 
 //游戏者接口
 public interface IGamePlayer {

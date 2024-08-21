@@ -1,4 +1,4 @@
-package com.learning.java_basic.collections_.designPattern.proxy_.proxy03;
+package com.learning.java_basic.designPattern.proxy_.proxy03;
 
 //强制代理
 public class Client {

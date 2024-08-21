@@ -1,4 +1,4 @@
-package thread_;
+package com.learning.java_basic.thread_;
 
 public class SellTicket {
     public static void main(String[] args) {
